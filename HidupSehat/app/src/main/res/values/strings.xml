@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">HidupSehat</string>
+    <string name="large_text"> haha hihi hehe huhu</string>
+
+    //naga
+    <string name="namanaga">Naga Merah</string>
+    <string name="harganaga">Rp.30.000/kg</string>
+    <string name="naga">
+        Manfaat buah naga \n
+        a. Mencegah dan mengatasi sembelit \n
+        b. Mencegah diare \n
+        c. Melindungi tubuh dari infeksi \n
+        d. Menurunkan kolesterol \n
+        e. Mencegah terjadinya penyakit jantung \n
+        f. Meredakan peradangan \n
+    </string>
+    <string name="action_settings">Settings</string>
+
+    //pisang
+    <string name="namapisang">Pepaya California</string>
+    <string name="hargapisang">Rp.30.000/kg</string>
+    <string name="manfaatpisang">
+
+    </string>
+
+    //jambumerah
+    <string name="namajambu">Jambu Merah</string>
+    <string name="hargajambu">Rp.10.000/kg</string>
+    <string name="manfaatjambu">
+
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>

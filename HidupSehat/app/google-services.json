@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "120605492905",
+    "firebase_url": "https://hidupsehat-80aa6-default-rtdb.asia-southeast1.firebasedatabase.app/",
+    "project_id": "hidupsehat-80aa6",
+    "storage_bucket": "hidupsehat-80aa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120605492905:android:05c4ba08dee74973f38bb8",
+        "android_client_info": {
+          "package_name": "com.zeedoys.hidupsehat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5w8kQ2tR2OFFyDd1-Zdy2BjBEWSAe-2g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
